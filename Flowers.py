@@ -74,23 +74,12 @@ with open("output.txt","w") as out:
                 Rock = f.readline().strip().split(" ")
                 Rock = [int(j) for j in Rock]
                 Garden[Rock[1]][Rock[0]] = ["Y",0]
-            MidX = W//2
-            MidY = H//2
-            #can be optimised according to Dodo
-            Garden[MidY][MidX][1] = 1
-            if W % 2 ==0 and H % 2 ==0:
-                Garden[MidY-1][MidX][1] = 1
-                Garden[MidY][MidX-1][1] = 1
-                Garden[MidY-1][MidX-1][1] = 1
-            elif W % 2 ==0 and H % 2> 0:              
-                Garden[MidY][MidX-1][1] = 1
-            elif W % 2 >0 and H % 2 == 0:
-                Garden[MidY-1][MidX][1] = 1   
+            for y,row in enumerate(Garden):
+                for x,col in enumerate(row):
+                    if col[0] == "Y":
+                        Gar = deepcopy(Garden)
+                        Gar[y][x][0] = "P"
+                        Gar[y][x][1] = 1
+                        Dijsktra(Gar,F-1)
 
-            Dijsktra(Garden,F)
-
-            Best = 0
-            for o in Solutions:
-                if o > Best:
-                    Best = o
-            out.writelines(f"Case #{i+1}: {Best}\n")
+            out.writelines(f"Case #{i+1}: {max(Solutions)}\n")
