@@ -1,0 +1,15 @@
+i,j,k = 0,0,0
+Hamm = 1
+Limit = 1000
+Nums = [1]
+while Hamm < Limit:
+    if i<j:
+        i+=1
+    elif j<k:
+        j+=1
+    else:
+        k +=1
+    Hamm = 2**i * 3**j * 5**k
+    Nums.append(Hamm)
+
+print(Nums)

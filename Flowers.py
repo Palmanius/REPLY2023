@@ -1,4 +1,8 @@
 from copy import deepcopy
+with open("path","r") as f:
+    f.readline()
+    f.writelines()
+
 
 def Dijsktra(Gar,plants):
     global Solutions
