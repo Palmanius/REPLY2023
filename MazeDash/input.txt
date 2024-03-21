@@ -1,0 +1,127 @@
+5
+22 3
+0 0 0 0 0 0 0 0 0 X 0 0 0 0 X 0 0 X 0 0 0 X
+0 0 0 0 0 0 0 0 0 0 0 0 0 X 0 X 0 0 0 X X 0
+0 0 0 0 0 0 0 0 X 0 0 0 X 0 0 0 X 0 X 0 X X
+0 0 0 0 0 X 0 0 X 0 0 0 0 0 X 0 X 0 0 X X X
+0 0 0 0 0 0 0 0 0 0 X 0 0 X X X 0 X X 0 X X
+0 X 0 0 0 0 0 0 0 0 0 0 X 0 0 0 0 0 X 0 0 0
+0 0 0 X X 0 0 0 0 0 0 0 0 0 0 0 X X X 0 0 X
+0 0 X 0 0 X X X 0 0 0 0 0 X X 0 0 0 X X 0 0
+0 0 0 0 0 X 0 X 0 0 X 0 0 0 0 0 0 0 0 0 X X
+0 0 0 0 X 0 0 X 0 0 0 0 0 0 0 0 X 0 X 0 X 0
+X 0 0 0 X 0 X 0 0 0 0 X 0 0 X X 0 0 0 X 0 X
+0 0 0 0 0 0 0 0 X 0 0 0 0 X X X 0 0 0 X X X
+0 X 0 X 0 0 0 X 0 X 0 0 X 0 0 X X 0 X X X X
+X 0 X X 0 0 X 0 0 0 0 0 0 0 0 X X X 0 X 0 X
+X 0 X X 0 X 0 0 X X X 0 X 0 0 0 X X X 0 0 0
+0 0 X 0 0 X X 0 X 0 0 0 0 0 0 X 0 0 X X 0 X
+X 0 X 0 0 X X X 0 0 0 0 0 X X 0 X 0 X 0 0 0
+0 0 X 0 X X X 0 X 0 0 0 0 0 0 X 0 0 0 X 0 X
+0 X X X 0 X 0 X X 0 X X 0 X X X X X 0 X 0 0
+0 0 X 0 X 0 X 0 X X 0 X 0 0 0 0 0 X 0 X 0 X
+0 X X X X 0 0 0 X 0 0 X X X X 0 X 0 X X X X
+0 X 0 0 X X 0 X 0 0 0 X X X 0 X 0 0 0 0 X 0
+-1 2
+2 2
+2 1
+21 3
+0 0 0 0 0 X 0 0 0 0 0 X 0 0 0 0 X 0 X 0 X
+0 0 0 0 0 0 0 0 0 0 0 X 0 0 X X X X X X 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 X X 0 0 X X X 0
+0 0 0 0 0 0 0 0 0 X 0 X 0 0 0 0 X 0 X 0 0
+0 0 0 0 0 X 0 0 0 0 0 0 0 0 0 X 0 0 X 0 0
+0 0 0 X X 0 0 0 0 X 0 0 0 0 0 0 X X 0 X 0
+0 0 X 0 0 0 0 0 0 0 X 0 0 0 0 X 0 X 0 X 0
+X 0 X 0 0 X 0 0 0 0 X 0 0 X X 0 X 0 0 X 0
+0 0 0 0 0 0 0 0 0 X X X 0 X X X X X 0 X X
+0 X 0 0 X 0 X X 0 0 X X 0 X X 0 0 0 X X 0
+0 0 0 0 0 0 X 0 X 0 0 0 0 0 0 0 0 X X 0 X
+0 X X X X X 0 X 0 X 0 0 0 0 0 X X X X 0 0
+X 0 0 0 X X 0 0 0 0 0 0 0 X 0 X X X X X 0
+X X 0 X X 0 X 0 X 0 0 X 0 0 0 0 0 X X 0 X
+X 0 X 0 X X 0 0 0 X X X 0 X X X 0 0 0 0 0
+0 0 0 X X 0 X 0 0 X 0 0 X 0 0 0 0 X 0 0 X
+0 0 X 0 0 X X 0 0 X X X 0 0 0 0 X 0 X X 0
+X 0 0 0 0 0 X X 0 X X 0 0 X 0 X X 0 X 0 0
+0 X 0 X 0 0 0 0 X 0 X 0 X X 0 X 0 0 X 0 0
+0 X X 0 0 X X 0 0 0 X X X X X 0 0 0 X 0 X
+0 0 0 X 0 X X 0 0 0 X 0 X X X X 0 0 0 0 X
+2 1
+0 2
+1 0
+21 3
+0 0 0 0 0 X X 0 X 0 X X 0 X 0 0 X 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 X X X 0 0 0 0 0 X
+0 0 0 0 0 0 0 0 X X X 0 X 0 0 0 0 0 X X X
+0 0 0 0 0 0 X 0 X 0 0 X X 0 0 0 X X X 0 X
+0 0 0 0 0 0 0 0 0 0 X 0 0 0 X 0 X 0 0 0 X
+0 0 0 X X X 0 0 0 X 0 0 X 0 X 0 0 0 X 0 X
+0 0 0 0 0 X 0 0 0 0 0 0 X 0 X 0 X 0 X X X
+0 0 0 0 0 0 0 0 0 0 0 X 0 0 0 0 X 0 0 X 0
+0 0 0 0 0 X 0 X 0 X X 0 0 X 0 X 0 X X X 0
+0 0 X 0 0 0 0 0 X X X 0 0 X X X 0 X 0 0 0
+0 0 0 X 0 X 0 0 0 0 0 0 X 0 X 0 X 0 X X X
+0 0 X 0 0 0 0 0 0 X 0 0 X X 0 0 0 X 0 X 0
+0 X X 0 0 0 0 0 0 0 0 X 0 X 0 X X 0 X 0 X
+0 X X 0 X 0 X 0 X 0 X 0 0 0 0 0 0 0 X 0 X
+X X 0 X 0 X X 0 X X 0 0 0 0 0 X X X 0 0 0
+0 0 0 X 0 0 X 0 0 X 0 X 0 X 0 0 0 X 0 X 0
+0 0 0 0 X X 0 0 0 0 X X 0 X X X 0 X X 0 X
+0 X 0 0 X X X 0 0 0 0 X X X 0 X 0 X X X X
+X X X X X 0 0 X X 0 X 0 X X 0 X 0 X X 0 0
+0 X 0 X 0 0 0 0 X 0 0 0 X 0 0 0 0 X X X X
+X X X X X 0 X 0 X X 0 X X X 0 0 0 X 0 0 X
+2 2
+-1 2
+1 2
+22 3
+0 0 0 0 0 0 0 0 0 0 0 0 X 0 0 X 0 0 X 0 0 X
+0 0 0 0 0 0 X X 0 X 0 X 0 X 0 0 0 0 X X 0 0
+0 0 0 0 0 X X 0 X 0 0 0 0 X 0 X X X X 0 0 X
+0 0 0 0 0 X 0 0 0 0 X 0 0 0 0 0 X X 0 X 0 0
+0 0 0 0 0 X X 0 X X 0 0 X 0 X 0 0 X 0 0 X 0
+0 0 0 X 0 0 X 0 X 0 0 0 0 X X 0 0 0 0 0 0 X
+0 X 0 0 0 X 0 X X X 0 X 0 0 X 0 0 X X 0 0 X
+0 X 0 X 0 0 0 0 X 0 0 0 X X X 0 X 0 X 0 0 X
+0 X 0 X 0 0 0 0 0 0 X 0 0 X 0 0 0 0 0 0 0 0
+0 0 0 X 0 X 0 0 X X X 0 0 0 0 0 X X 0 0 0 0
+0 0 X 0 0 X 0 0 0 X 0 X 0 0 0 X X 0 X 0 X 0
+0 X 0 0 X X 0 X 0 0 0 0 0 0 0 X 0 0 0 X X 0
+0 0 0 0 0 X 0 0 X X 0 0 X X X 0 X 0 X 0 0 0
+X 0 0 0 X 0 0 X 0 0 0 0 0 X X 0 X 0 X X 0 X
+0 X 0 0 0 X 0 0 X X 0 0 0 0 0 X 0 X 0 X X X
+0 X X 0 X X 0 X 0 X X 0 0 X 0 0 X X X X X X
+0 0 0 0 0 0 0 0 X 0 X X 0 X 0 0 0 X X 0 X 0
+0 0 X X 0 0 0 0 0 0 X 0 X 0 0 0 X X X X 0 X
+0 0 0 0 X 0 0 0 0 0 X 0 0 X 0 0 0 0 0 X 0 0
+X X 0 X X 0 X 0 0 X 0 X 0 0 X 0 0 0 0 X X 0
+X X 0 0 X 0 X X X X X 0 X 0 0 0 0 X 0 X 0 0
+0 X X X 0 X X X 0 X 0 X 0 0 X 0 X X 0 X X 0
+1 2
+1 1
+0 1
+20 3
+0 0 0 0 0 0 0 X X 0 X X 0 X X 0 0 X X 0
+0 0 0 0 0 0 0 0 0 X 0 0 0 X X 0 X X X X
+0 0 0 0 X X 0 X 0 X 0 X 0 0 X 0 X 0 X X
+0 0 0 0 0 X 0 0 0 0 0 0 0 X 0 0 0 0 0 X
+0 0 0 0 X X X X 0 0 X 0 0 X X 0 0 X 0 X
+X 0 0 0 0 X 0 0 X X X 0 0 0 0 0 0 0 0 X
+0 X 0 0 0 0 0 0 0 0 X 0 0 0 0 0 0 0 X 0
+0 0 0 X 0 0 X 0 0 X X 0 0 X 0 X X X 0 X
+0 0 X 0 X 0 0 0 0 0 X 0 0 X 0 X X X 0 X
+0 0 X 0 0 X X 0 0 0 0 0 0 0 0 X 0 X 0 0
+0 0 0 0 X 0 0 0 0 0 X 0 0 X 0 0 X 0 0 0
+0 0 0 X 0 X 0 0 0 0 0 X 0 X X X X 0 0 X
+0 0 0 X 0 X 0 0 X X X 0 X 0 0 X X X X 0
+0 X X 0 0 0 X 0 X X X 0 0 X X 0 X 0 X X
+X X 0 X X X 0 X 0 X 0 0 0 0 X 0 X 0 0 0
+0 0 X X X X 0 0 0 0 0 X 0 0 0 0 X 0 X X
+0 0 X 0 0 0 X 0 0 X 0 X X X 0 0 0 0 0 0
+0 0 0 0 X X X 0 0 X X X 0 0 X 0 X X 0 X
+0 X 0 0 X X X X 0 0 X 0 X 0 0 X X 0 X X
+0 X 0 0 X X X 0 X 0 0 0 X 0 0 0 X 0 X 0
+2 2
+1 2
+2 0

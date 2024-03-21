@@ -1,5 +1,5 @@
-with open("Task1\input.txt","r") as f:
-    with open("Task1\output.txt","w") as out:
+with open("Task1\\input.txt","r") as f:
+    with open("Task1\\output.txt","w") as out:
         N = f.readline()
         for i in range(int(N)):
             Case = [int(x) for x in f.readline().strip().split(" ")]
@@ -14,9 +14,10 @@ with open("Task1\input.txt","r") as f:
         
             Turns = 0
             Runs = []
-            RemMia = []
-            RemGenga = []
-            while len(Mia) > 0:
+
+            while len(Mia) > 0 and len(Genga) > 0:
+                RemMia = []
+                RemGenga = []
                 if Mia[0] > Genga[0]:
                     RemMia.append(Mia.pop(0))
                     if sum(RemMia) < W:
@@ -55,6 +56,8 @@ with open("Task1\input.txt","r") as f:
 
 
             out.writelines(f"Case #{i+1}: {Turns}")
+            for run in Runs:
+                out.writelines(str(run))
 
 
 
